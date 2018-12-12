@@ -20,7 +20,10 @@ BADS_WS1819_unknown
 - user_dob is date of birth. consider discretizing and removing bad values (impute?)
 - user_state is a factor. follows same distribution and appears to be decent signal
 - user_reg_date is a date. consider changing to "length of account" and "time between open and order"
-
+- basic colors (e.g. black, white, navy) are correlating with lower return probability, bc uncertainty regarding color is reduced
+- basic sizes (m) are correlating with lower return probability, bc uncertainty regarding color is reduced
+- "trends" --> products with a high purchase rate
+- 
 
 2. Transforming Variables
 3. Building a model
