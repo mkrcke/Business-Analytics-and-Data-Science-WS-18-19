@@ -1,6 +1,6 @@
 # Business-Analytics-and-Data-Science-WS-18-19
-
-Submission Date: 18.03.2018
+Code Submission Date: 12.02.2019
+Paper Submission Date: 18.03.2019
 
 Input:
 BADS_WS1819_known
